@@ -31,3 +31,8 @@ A minimalist, distraction-free writing canvas with rich aesthetics, inspired by 
    ```bash
    npm run build
    ```
+
+## Credits & License
+
+- **Themes Database**: Color palettes are sourced from the official [Monkeytype](https://github.com/monkeytypegame/monkeytype) repository under the GPL-3.0 License.
+- **License**: This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**. See the [LICENSE](file:///Users/armaannahata/repos/monkeypad/LICENSE) file for more details.
